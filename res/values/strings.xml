@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string name="hello">Hello World, RealShed!</string>
+    <string name="app_name">RealSched</string>
+	<string name="app_welcome">Välkommen till</string>
+	<string name="selectclass">Välj vems schema du vill visa:</string>
+	<string name="classes_prompt">Välj klass:</string>
+	<string name="menu_lunch">Lunch</string>
+	<string name="menu_admin">Administrera</string>
+	<string name="messagemenu">Tryck på menyknappen för fler alternativ!</string>
+	<string name="view_prev">Föregående</string>
+	<string name="view_next">Nästa</string>
+</resources>
